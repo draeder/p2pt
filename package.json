@@ -14,7 +14,7 @@
     "test": "standard && start-server-and-test 'node start-trackers.js' 5001 test:all"
   },
   "dependencies": {
-    "bittorrent-tracker": "^9.14.5",
+    "bittorrent-tracker": "^9.15.0",
     "randombytes": "^2.1.0",
     "simple-sha1": "^3.0.1",
     "wrtc": "^0.4.6"
@@ -23,7 +23,7 @@
     "airtap": "^3.0.0",
     "browserify": "^16.5.1",
     "standard": "^14.3.4",
-    "start-server-and-test": "^1.11.2",
+    "start-server-and-test": "^1.11.7",
     "tape": "^5.0.1",
     "tinyify": "^3.0.0"
   },
